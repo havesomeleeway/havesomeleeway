@@ -1,19 +1,17 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About me
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Hello, my name is Lee Wei. I currently work at <a href="www.oromico.com">Oromico</a> as a Product/UX Designer. 
+Previously, I worked at another startup called Homekoala. At Homekoala, we developed a real-estate search engine for properties in Australia. 
+However, we could not continue the project as we did not find a way to monetise it. 
+It was at Homekoala where I realised the importance of focusing on design for the needs of the business.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+I started on the path of design relatively late into my twenties, although i’ve always had a keen interest in it since 
+my teenage years. After a series of fortunate missteps, I eventually stumbled back into design and realised this is where I’m most comfortable at.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+Feel free to reach out to me at leewei@live.com.sg if you wish to have a chat.
