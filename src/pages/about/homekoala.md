@@ -7,14 +7,16 @@ title: Homekoala Reflections
 
 ![mapview](../../../static/img/main_interface.png)
 
-I first joined Homekoala in 2015, when I've left all my knowledge of how the web worked behind. I was interested in 
-technology in my early teens but that interest tapered off as I believed that I was more suited for a career in the field
-of arts and humanities \(boy, was I wrong). 
+## A little about myself 
+I first joined Homekoala in 2015, due to my interest in working for a start-up. While I had close to zero technical
+chops in software, it was something that I had always been interested in during my early teens, as most of us were growing
+up in the 2000s. As my grades in mathematics and science declined, I believed that I was more suited for a career in the
+field of arts and humanities and carried it as a self-fulfilling prophecy for almost a decade to follow. 
 
 ___
 
 
-## Background 
+## Background of Homekoala
 
 Homekoala was a real-estate search engine, designed to help Australians "Find The Right Home", it was built during a time
 when real estate search portals were clunky and difficult to navigate. Users typically had to go through multiple pages of
@@ -79,6 +81,7 @@ While they are not related to digital design, I have found them invaluable in he
 * The Visual Display of Quantitative Information - Edward R. Tufte
 * Envisioning Information - Edward R. Tufte
 * Dieter Rams : As Little Design As Possible - Jonathan Ive, Klaus Kemp, Sophie Lovell
+* Design Systems - Alla Kholmatova
 
 If you are interested in the work of Dieter Rams, I suggest taking a look at his [documentary](https://www.hustwit.com/rams/), 
 which include in-depth conversations with Dieter, and dive deep into his philosophy, his process, and his inspirations.

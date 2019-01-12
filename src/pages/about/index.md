@@ -10,8 +10,9 @@ Previously, I worked at another startup called Homekoala. At Homekoala, we devel
 properties in Australia. However, we had to call it quits after two years as we failed to find a way to monetise it. 
 After those two years, I learnt many important lessons which I carry till today. We focused too much time on developing 
 features, in hopes that the next 'great' feature would bring us to the place that we needed to be. Yet in hindsight, 
-more time should have been spent on getting actual paying customers onboard. If you are interested, I wrote a reflection
-piece on my time at Homekoala and the lessons that I've learnt along the way.
+more time should have been spent on getting actual paying customers onboard. If you are interested, I wrote a 
+<a href="https://havesomeleeway.com/about/homekoala">reflection piece</a> on my time at Homekoala and the hard lessons 
+that I've learnt along the way.
 
 
 
