@@ -5,5 +5,7 @@
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
 
-# Redirect default Netlify subdomain to primary domain
-http://havesomeleeway.netlify.com/* http://havesomeleeway.com/:splat 301!
+# A redirect rule with all the supported properties
+[[redirects]]
+  from = http://havesomeleeway.netlify.com/*
+  to = http://havesomeleeway.com/
