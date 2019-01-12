@@ -7,5 +7,5 @@
 
 # A redirect rule with all the supported properties
 [[redirects]]
-  from = http://havesomeleeway.netlify.com/*
+  from = havesomeleeway.netlify.com/*
   to = http://havesomeleeway.com/
